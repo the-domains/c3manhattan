@@ -1,0 +1,28 @@
+name: c3manhattan
+favicon: null
+layout_spectrum: 0.01060722628608346
+typography_spectrum: 0.8444082569330931
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.8361242341343313
+  lightness: 0.6672609110828489
+  saturation: 0.9213826577179134
+  rhythmicContrast: 0.4067272124812007
+purpose: []
